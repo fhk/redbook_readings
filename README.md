@@ -7,7 +7,7 @@ The papers from the red book
 [Data Models and DBMS Architecture
 Michael Stonebraker Joseph M. Hellerstein. What Goes Around Comes Around.](https://github.com/fhk/redbook_readings/blob/master/papers/SH05.pdf)
 
-Joseph M. Hellerstein Michael Stonebraker. Anatomy of a Database System.
+[Joseph M. Hellerstein Michael Stonebraker. Anatomy of a Database System.](https://github.com/fhk/redbook_readings/blob/master/papers/fntdb07-architecture.pdf)
 
 Query Processing
 Patricia G. Selinger Morton M. Astrahan Donald D. Chamberlin Raymond A. Lorie Thomas G. Price. Access Path Selection in a Relational Database Management System.. Proc. SIGMOD Conference, 1979, 23-34.
