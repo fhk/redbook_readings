@@ -5,7 +5,7 @@ The papers from the red book
 ## Fourth Edition
 
 [Data Models and DBMS Architecture
-Michael Stonebraker Joseph M. Hellerstein. What Goes Around Comes Around.](https://github.com/fhk/redbook_readings/papers/SH05.pdf)
+Michael Stonebraker Joseph M. Hellerstein. What Goes Around Comes Around.](https://github.com/fhk/redbook_readings/blob/master/papers/SH05.pdf)
 
 Joseph M. Hellerstein Michael Stonebraker. Anatomy of a Database System.
 
